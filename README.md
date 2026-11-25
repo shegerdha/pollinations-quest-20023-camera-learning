@@ -3,6 +3,8 @@
 A camera-first field guide for Pollinations quest #20023:
 https://github.com/pollinations/pollinations/issues/20023
 
+[![Made with pollinations.ai](https://raw.githubusercontent.com/pollinations/pollinations/main/packages/ui/src/brand/badge-made-with.svg)](https://pollinations.ai/?ref=badge)
+
 Fieldnote helps people learn about plants, buildings, everyday objects, and visual details. It runs as a static web app with no build step or server-side key. Users connect their own Pollinations balance with the official polli-connect widget. The widget is limited to openai/gpt-5.4-nano, a $0.05 budget, and a one-day expiry.
 
 ## Run locally
